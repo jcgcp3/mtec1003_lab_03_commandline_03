@@ -15,7 +15,7 @@ This lab will review downloading and uncompressing files, and it will get us set
 
 Write the command that you used to do this below:
 ----------
-
+cd
 
 
 ==========
@@ -24,6 +24,9 @@ Write the command that you used to do this below:
 Write the command that you used to do this - as well as its output - below :
 ----------
 
+ent-v314-005:~ student$ 
+
+
 
 
 ==========
@@ -31,14 +34,26 @@ Write the command that you used to do this - as well as its output - below :
 
 Write the command(s) that you used to determine this - as well as its output - below:
 ----------
-
+ent-v314-005:~ student$ ls
+Adlm			Movies			humvn
+Adobe			Music			ipe.properties
+Applications		New Unity Project	isus
+BALANS.png.gz		Pictures		ls
+BALANS.tar		Public			mtec1002
+Desktop			QLData			mtec1002-lab-02
+Documents		Things			on...
+Downloads		drills.py		pymel.log
+Library			foo			stuff
+MPLABXProjects		food			xgen
+ent-v314-005:~ student$ 
 
 
 ==========
 4. If there are directories or files in your home directory that have the word mtec1003 in them, list them below (otherwise skip this step):
 ----------
 
-
+mtec1002
+mtec1002-lab-02
 
 ==========
 5. Delete these directories from your home folder by using this command:
